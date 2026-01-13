@@ -1,4 +1,4 @@
-# YOLOv11 Agricultural Object Detection Example Repository
+# YOLOv11 Agricultural Object Detection
 
 This repository provides code and scripts for object detection using Ultralytics **YOLOv11** in agricultural scenarios .
 

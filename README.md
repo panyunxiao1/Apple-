@@ -12,4 +12,4 @@ The complete annotated dataset is publicly available on Roboflow:
 
 You can preview the dataset directly on the page. To download, sign up for a free Roboflow account and export in your preferred format (YOLOv8, COCO, etc.).
 
-## Data and Code Availability Statement
+
